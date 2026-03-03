@@ -1,7 +1,7 @@
 # Evgeniya (Gina) Skurlatova
 
 **WordPress Developer · UI/UX Designer · Digital Strategist**  
-Phuket, Thailand · [fortune-thailand.com](https://fortune-thailand.com) · [LinkedIn](https://linkedin.com/in/evgeniya-skurlatova) · evgeniya.skurlatova@gmail.com
+Phuket, Thailand · [fortune-thailand.com](https://fortune-thailand.com) · [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/evgeniya-skurlatova) · [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:evgeniya.skurlatova@gmail.com)
 
 ---
 
@@ -23,7 +23,7 @@ Phuket, Thailand · [fortune-thailand.com](https://fortune-thailand.com) · [Lin
 | | |
 |---|---|
 | **WordPress Developer** · Iglu | Jun 2022 – Present |
-| **Founder & CEO** · Fortune International Thailand | 2011 – Present |
+| **Founder & CEO** · [Fortune International Thailand](https://fortune-thailand.com) | 2011 – Present |
 | **WordPress Dev & QA** · AutoVitals | 2017 – 2022 |
 | **WordPress Dev / SEO** · Absolute Vacation Club | 2014 – 2019 |
 | **Founder & CEO** · Creative Studio Sandal | 2004 – Present |
@@ -33,5 +33,5 @@ Phuket, Thailand · [fortune-thailand.com](https://fortune-thailand.com) · [Lin
 ### Currently
 
 - Maintaining WordPress infrastructure for **Iglu** co-working spaces (Phuket & Bangkok)
-- Leading digital strategy and client projects at **Fortune International Thailand**
+- Leading digital strategy and client projects at **[Fortune International Thailand](https://fortune-thailand.com)**
 - Publishing WordPress snippets and tools — coming soon
