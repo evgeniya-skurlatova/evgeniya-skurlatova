@@ -1,7 +1,7 @@
 # Evgeniya (Gina) Skurlatova
 
 **WordPress Developer · UI/UX Designer · Digital Strategist**  
-Phuket, Thailand · [fortune-thailand.com](https://fortune-thailand.com) · [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/evgeniya-skurlatova) · [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:evgeniya.skurlatova@gmail.com)
+Phuket, Thailand · [fortune-thailand.com](https://fortune-thailand.com) · [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/evgeniya-skurlatova) · [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:evgeniya.skurlatova@gmail.com) · [Portfolio Page](https://evgeniya-skurlatova.github.io)
 
 ---
 
